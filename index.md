@@ -48,6 +48,7 @@ A production-grade retrieval-augmented generation system for institutional domai
 ## EduGenie - AI Teaching Assistant
 
 [![Static Badge](https://img.shields.io/badge/View_on_Devpost-blue?style=flat&logo=devpost&labelColor=grey)](https://devpost.com/software/edugenie-r2iq7l)
+[![Static Badge](https://img.shields.io/badge/Bolt_Hackathon_Certificate-green?style=flat&logo=googledrive&labelColor=grey)](https://drive.google.com/file/d/1aR8QRpu4lKgjXSpsotQIE0S71kVwqjqe/view)
 
 <div style="text-align: justify">
 A full-stack AI assistant enabling educators to generate lesson plans and quizzes using LLMs, built during the <b>Bolt Hackathon 2025</b> organized by Botnoi Group.
@@ -62,9 +63,6 @@ A full-stack AI assistant enabling educators to generate lesson plans and quizze
 - Frontend: [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
 - Backend / Database: [Supabase](https://supabase.com/)
 - LLM API: [OpenRouter](https://openrouter.ai/)
-
-<center><img src="images/bolt-hackathon-certificate.png" width="600"/></center>
-<center><i>Certificate of Appreciation — Bolt Hackathon 2025, Botnoi Group</i></center>
 
 ---
 # Skills
