@@ -1,6 +1,16 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+title: <p align="center"> Nopparuj Tunnukij </p>
+logo: "/images/picture.png?raw=true"
+description:
+  <p align="center">
+  <a href="https://github.com/NopparujTun">GitHub</a> |
+  <a href="https://www.linkedin.com/in/nopparuj-tunnukij-9917ab374/">LinkedIn</a>
+  </p>
 
-title: Nopparuj Tunnukij
-description: Student
+  <p align="justify">
+  I am a Computer Science M.Sc. student and developer focusing on AI/ML and full-stack development. I love building intelligent systems and turning ideas into products that make a positive impact. :)
+  <br><br>
+  email - nopparujtunnukij@hotmail.com
+  <br><br>
+  </p>
+
+theme: jekyll-theme-minimal
