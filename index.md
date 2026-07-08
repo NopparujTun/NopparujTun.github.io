@@ -50,7 +50,7 @@ A production-grade retrieval-augmented generation system for institutional domai
 [![Static Badge](https://img.shields.io/badge/View_on_Devpost-blue?style=flat&logo=devpost&labelColor=grey)](https://devpost.com/software/edugenie-r2iq7l)
 
 <div style="text-align: justify">
-A full-stack AI assistant enabling educators to generate lesson plans and quizzes using LLMs, built rapidly in a fast-paced hackathon environment.
+A full-stack AI assistant enabling educators to generate lesson plans and quizzes using LLMs, built during the <b>Bolt Hackathon 2025</b> organized by Botnoi Group.
 </div>
 <br />
 <b>Key Features</b>
@@ -62,6 +62,9 @@ A full-stack AI assistant enabling educators to generate lesson plans and quizze
 - Frontend: [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
 - Backend / Database: [Supabase](https://supabase.com/)
 - LLM API: [OpenRouter](https://openrouter.ai/)
+
+<center><img src="images/bolt-hackathon-certificate.png" width="600"/></center>
+<center><i>Certificate of Appreciation — Bolt Hackathon 2025, Botnoi Group</i></center>
 
 ---
 # Skills
