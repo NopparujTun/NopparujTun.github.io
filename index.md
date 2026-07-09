@@ -42,12 +42,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
 </p>
-<b>Languages</b>
-
-<p>
-  <img src="https://img.shields.io/badge/Thai-Native-A51931" alt="Thai"/>
-  <img src="https://img.shields.io/badge/English-Fluent-00247D" alt="English"/>
-</p>
 
 ---
 # Experience
