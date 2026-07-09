@@ -57,7 +57,7 @@
 ---
 # Projects
 ---
-## Thai Sentiment Analysis: WangchanBERTa vs Baseline
+## Thai Sentiment Analysis: Fine-tuning WangchanBERTa
 
 [![Static Badge](https://img.shields.io/badge/Open_in_Colab-blue?style=flat&logo=googlecolab&labelColor=grey)](https://colab.research.google.com/drive/1RQvTdfjL0yJ0PGoU9kGntPhkpbhpOvt9?usp=sharing)
 
