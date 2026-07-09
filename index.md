@@ -1,13 +1,11 @@
-# Education
+# Skills
 ---
-## [Chiang Mai University](https://www.cmu.ac.th/)
-<b>M.Sc. in Computer Science</b> — Chiang Mai, Thailand  
-<b>2026 - Present</b>  
-Relevant Coursework: Machine Learning, Artificial Intelligence, Natural Language Processing
-
-## [Chiang Mai University](https://www.cmu.ac.th/)
-<b>B.Sc. in Computer Science</b> — Chiang Mai, Thailand  
-<b>2022 - 2026</b>
+- <b>Languages</b>: Thai (Native), English (Fluent)
+- <b>Programming</b>: Python, TypeScript, JavaScript, Go, SQL
+- <b>AI/ML</b>: PyTorch, Scikit-learn, LangChain, NLP, RAG
+- <b>Frameworks & Libraries</b>: FastAPI, React, Node.js, Next.js, Pandas, NumPy
+- <b>Databases & Vector Stores</b>: Supabase, Firebase, FAISS, Pinecone
+- <b>Tools</b>: Docker, Git
 
 ---
 # Experience
@@ -35,6 +33,8 @@ A comparative study fine-tuning a Thai RoBERTa model (WangchanBERTa) against a c
 - <b>Transformer Fine-Tuning</b>: Fine-tuned [WangchanBERTa](https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased) (Thai RoBERTa) for 3-class sentiment classification (positive / neutral / negative) on the 21K-sample [Wisesight Sentiment](https://huggingface.co/datasets/pythainlp/wisesight_sentiment) dataset using the HuggingFace [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer) API, reaching <b>76% accuracy</b> and <b>0.72 macro-F1</b>.
 - <b>Baseline Benchmarking</b>: Built a TF-IDF + Naive Bayes baseline and compared both models under shared metrics, demonstrating a <b>+10-point accuracy</b> and <b>+16-point macro-F1</b> gain from contextual pre-training — most notably tripling recall on the minority positive class (0.19 → 0.51).
 - <b>Thai NLP Pipeline</b>: Handled Thai's spaceless script with [PyThaiNLP](https://pythainlp.github.io/) word tokenization, and visualized per-class errors with confusion matrices.
+
+![Thai Sentiment Analysis Results](/images/sentiment.png)
 
 <b>Tools / Technologies</b>
 - ML / NLP: [PyTorch](https://pytorch.org/), [HuggingFace Transformers](https://huggingface.co/docs/transformers), [Scikit-learn](https://scikit-learn.org/), [PyThaiNLP](https://pythainlp.github.io/)
@@ -83,14 +83,16 @@ A full-stack AI assistant enabling educators to generate lesson plans and quizze
 - LLM API: [OpenRouter](https://openrouter.ai/)
 
 ---
-# Skills
+# Education
 ---
-- <b>Languages</b>: Thai (Native), English (Fluent)
-- <b>Programming</b>: Python, TypeScript, JavaScript, Go, SQL
-- <b>AI/ML</b>: PyTorch, Scikit-learn, LangChain, NLP, RAG
-- <b>Frameworks & Libraries</b>: FastAPI, React, Node.js, Next.js, Pandas, NumPy
-- <b>Databases & Vector Stores</b>: Supabase, Firebase, FAISS, Pinecone
-- <b>Tools</b>: Docker, Git
+## [Chiang Mai University](https://www.cmu.ac.th/)
+<b>M.Sc. in Computer Science</b> — Chiang Mai, Thailand  
+<b>2026 - Present</b>  
+Relevant Coursework: Machine Learning, Artificial Intelligence, Natural Language Processing
+
+## [Chiang Mai University](https://www.cmu.ac.th/)
+<b>B.Sc. in Computer Science</b> — Chiang Mai, Thailand  
+<b>2022 - 2026</b>
 
 ---
 <center>© 2026 Nopparuj Tunnukij. Powered by Jekyll and the Minimal Theme.</center>
