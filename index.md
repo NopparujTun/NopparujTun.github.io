@@ -46,7 +46,7 @@
 ---
 # Experience
 ---
-## Front-End Developer Intern at [Botnoi Consulting Co., Ltd.](https://www.botnoigroup.com/)
+## Front-End Developer Intern at [Botnoi](https://www.botnoigroup.com/)
 <b>Apr 2024 - Jun 2024</b> — Bangkok, Thailand<br />
 <br />
 <b>Accomplishments</b>
