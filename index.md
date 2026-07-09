@@ -1,47 +1,11 @@
 # Skills
 ---
-<b>Programming</b>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-<b>AI/ML</b>
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/NLP-5A67D8" alt="NLP"/>
-  <img src="https://img.shields.io/badge/RAG-6B46C1" alt="RAG"/>
-</p>
-<b>Frameworks & Libraries</b>
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-<b>Databases & Vector Stores</b>
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone"/>
-</p>
-<b>Tools</b>
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-</p>
+<b>Languages</b>: Thai (Native), English (Fluent)
+<b>Programming</b>: Python, TypeScript, JavaScript, Go, SQL
+<b>AI/ML</b>: PyTorch, Scikit-learn, LangChain, NLP, RAG
+<b>Frameworks & Libraries</b>: FastAPI, React, Vue.js, Node.js, Next.js, Pandas, NumPy
+<b>Databases & Vector Stores</b>: Supabase, Firebase, FAISS, Pinecone
+<b>Tools</b>: Docker, Git
 
 ---
 # Experience
