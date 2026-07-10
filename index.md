@@ -23,7 +23,7 @@
 ---
 ## Thai Sentiment Analysis: Fine-tuning WangchanBERTa
 
-[![Static Badge](https://img.shields.io/badge/Open_in_Colab-blue?style=flat&logo=googlecolab&labelColor=grey)](https://colab.research.google.com/drive/1RQvTdfjL0yJ0PGoU9kGntPhkpbhpOvt9?usp=sharing)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/WangchanBERTa_sentiment.html)
 
 <div style="text-align: justify">
 A comparative study fine-tuning a Thai RoBERTa model (WangchanBERTa) against a classical machine learning baseline for 3-class sentiment classification, evaluated on the real-world Wisesight Sentiment dataset.
