@@ -28,7 +28,7 @@
 <div style="text-align: justify">
 A comparative study fine-tuning a Thai RoBERTa model (WangchanBERTa) against a classical machine learning baseline for 3-class sentiment classification, evaluated on the real-world Wisesight Sentiment dataset.
 </div>
-![Thai Sentiment Analysis Results](/images/sentiment.png)
+![Thai Sentiment Analysis Results](/images/sentiment-diagram.png)
 <br />
 <b>Key Features</b>
 - <b>Transformer Fine-Tuning</b>: Fine-tuned [WangchanBERTa](https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased) (Thai RoBERTa) for 3-class sentiment classification (positive / neutral / negative) on the 21K-sample [Wisesight Sentiment](https://huggingface.co/datasets/pythainlp/wisesight_sentiment) dataset using the HuggingFace [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer) API, reaching <b>76% accuracy</b> and <b>0.72 macro-F1</b>.
