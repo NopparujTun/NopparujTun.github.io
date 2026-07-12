@@ -1,11 +1,11 @@
 # Skills
 ---
-<b>Languages</b>: Thai (Native), English (Fluent)
-<b>Programming</b>: Python, TypeScript, JavaScript, Go, SQL
-<b>AI/ML</b>: PyTorch, Scikit-learn, LangChain, NLP, RAG
-<b>Frameworks & Libraries</b>: FastAPI, React, Vue.js, Node.js, Next.js, Pandas, NumPy
-<b>Databases & Vector Stores</b>: Supabase, Firebase, FAISS, Pinecone
-<b>Tools</b>: Docker, Git
+<b>Languages:</b> Thai (Native), English (Fluent)<br>
+<b>Programming:</b> Python, TypeScript, JavaScript, Go, SQL<br>
+<b>AI/ML:</b> PyTorch, Scikit-learn, LangChain, NLP, RAG<br>
+<b>Frameworks & Libraries:</b> FastAPI, React, Vue.js, Node.js, Next.js, Pandas, NumPy<br>
+<b>Databases & Vector Stores:</b> Supabase, Firebase, FAISS, Pinecone<br>
+<b>Tools:</b> Docker, Git
 
 ---
 # Experience
