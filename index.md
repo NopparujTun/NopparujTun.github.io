@@ -26,16 +26,9 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/WangchanBERTa_sentiment.html)
 
 <div style="text-align: justify">
-A comparative study fine-tuning a Thai RoBERTa model (WangchanBERTa) against a classical machine learning baseline for 3-class sentiment classification, evaluated on the real-world Wisesight Sentiment dataset.
-</div>
+In this notebook, I use the Hugging Face Transformers library to fine-tune WangchanBERTa, a Thai RoBERTa model, for three-class sentiment classification. I then compare its performance with a traditional machine learning baseline using TF-IDF features and a Multinomial Naive Bayes classifier. The Hugging Face ecosystem enables efficient fine-tuning of a state-of-the-art Thai language model, resulting in 76% accuracy and 0.72 macro-F1, with 10% higher accuracy and 16% higher macro-F1 than the baseline model.</div>
 ![Thai Sentiment Analysis Results](/images/sentiment-diagram.png)
 <br />
-<b>Key Features</b>
-- <b>Transformer Fine-Tuning</b>: Fine-tuned [WangchanBERTa](https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased) (Thai RoBERTa) for 3-class sentiment classification (positive / neutral / negative) on the 21K-sample [Wisesight Sentiment](https://huggingface.co/datasets/pythainlp/wisesight_sentiment) dataset using the HuggingFace [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer) API, reaching <b>76% accuracy</b> and <b>0.72 macro-F1</b>.
-- <b>Baseline Benchmarking</b>: Built a TF-IDF + Naive Bayes baseline and compared both models under shared metrics, demonstrating a <b>+10-point accuracy</b> and <b>+16-point macro-F1</b> gain from contextual pre-training — most notably tripling recall on the minority positive class (0.19 → 0.51).
-- <b>Thai NLP Pipeline</b>: Handled Thai's spaceless script with [PyThaiNLP](https://pythainlp.github.io/) word tokenization, and visualized per-class errors with confusion matrices.
-
-
 
 <b>Tools / Technologies</b>
 - ML / NLP: [PyTorch](https://pytorch.org/), [HuggingFace Transformers](https://huggingface.co/docs/transformers), [Scikit-learn](https://scikit-learn.org/), [PyThaiNLP](https://pythainlp.github.io/)
