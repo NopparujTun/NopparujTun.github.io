@@ -35,6 +35,20 @@ In this notebook, I use the Hugging Face Transformers library to fine-tune Wangc
 - Data / Visualization: [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
 
 ---
+## Rating Prediction from Thai Restaurant Reviews
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/stars_rating_prediction.html)
+
+<div style="text-align: justify">
+In this notebook, I develop a regression pipeline to predict continuous star ratings (1-5) from Thai restaurant reviews. Text preprocessing relies on custom regex cleaning and PyThaiNLP for tokenization, followed by TF-IDF feature extraction to capture the specific nuances of the Thai language. I then train and compare three distinct algorithms—Ridge Regression, Random Forest, and XGBoost—to evaluate how linear versus tree-based models handle sparse, high-dimensional text data. This workflow demonstrates an end-to-end NLP approach, from N-gram exploratory data analysis and WordClouds to predicting sentiment on a continuous scale using error metrics like MAE and MSE.</div>
+![Rating Prediction Results](/images/stars_prediction_diagram.png)
+<br />
+
+<b>Tools / Technologies</b>
+- ML / NLP: [Scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.ai/), [PyThaiNLP](https://pythainlp.github.io/)
+- Data / Visualization: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [WordCloud](https://www.wordclouds.com/)
+
+---
 ## Agentic RAG Chatbot
 
 [![Static Badge](https://img.shields.io/badge/View_on_GitHub-blue?style=flat&logo=github&labelColor=grey)](https://github.com/NopparujTun/agentic-rag-chatbot)
