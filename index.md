@@ -40,7 +40,7 @@ In this notebook, I use the Hugging Face Transformers library to fine-tune Wangc
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/stars_rating_prediction.html)
 
 <div style="text-align: justify">
-In this notebook, I develop a regression pipeline to predict continuous star ratings (1-5) from Thai restaurant reviews. Text preprocessing relies on custom regex cleaning and PyThaiNLP for tokenization, followed by TF-IDF feature extraction to capture the specific nuances of the Thai language. I then train and compare three distinct algorithms—Ridge Regression, Random Forest, and XGBoost—to evaluate how linear versus tree-based models handle sparse, high-dimensional text data. This workflow demonstrates an end-to-end NLP approach, from N-gram exploratory data analysis and WordClouds to predicting sentiment on a continuous scale using error metrics like MAE and MSE.</div>
+In this notebook, I develop and compare three regression models to predict continuous star ratings (1–5) from Thai restaurant reviews. The models—Ridge Regression, Random Forest, and XGBoost—are trained using TF-IDF features to evaluate how linear and tree-based approaches perform on sparse, high-dimensional text data. The workflow also includes Thai-specific text preprocessing with custom regex cleaning and PyThaiNLP tokenization, along with N-gram exploratory analysis and WordCloud visualizations. Finally, I evaluate and compare model performance using MAE and MSE.</div>
 ![Rating Prediction Results](/images/stars_prediction_diagram.png)
 <br />
 
